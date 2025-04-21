@@ -1,1 +1,3 @@
-# Virtual-Teminal-
+# Virtual-Teminal 
+Description:
+This project simulates a virtual file system using Python and Tkinter. It provides a terminal-like graphical interface where users can create, edit, delete, and manage files and folders just like in a real operating system. Users can run basic shell commands such as mkdir, touch, cd, ls, rm, mv, cp, open, edit, and more. The entire file system runs in memory and is presented in a user-friendly terminal GUI built with Tkinter. This project helps users understand the basic functionality of file systems and command-line operations while combining both backend logic and frontend interaction.
